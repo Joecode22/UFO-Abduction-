@@ -1,5 +1,5 @@
 # UFO: The Game
-Codecademy C++ Project where you can stop an alien abduction by correcting guessing the codeword in this fanciful version of hangman. 
+Codecademy C++ Project where you can stop an alien abduction by correctly guessing the codeword in this fanciful version of hangman. 
 
 ## Overview
 **UFO: The Game** is a fun and interactive command-line game developed in C++. The premise of the game is simple: invaders from outer space are abducting humans, and it's up to the players to save them by cracking the codeword. This game is inspired by the classic game "Hangman" but with a unique twist.
